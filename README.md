@@ -19,21 +19,21 @@ Enterprise guidance on optimizing LLM inference with Red Hat AI Inference Server
 ## Installation
 
 ```bash
-npx skills add pramodpadmanabhan/openshift-ai-skills
+npx skills add pramodmax/openshift-ai-skills
 ```
 
 Or install globally:
 ```bash
-npx skills add pramodpadmanabhan/openshift-ai-skills -g
+npx skills add pramodmax/openshift-ai-skills -g
 ```
 
 ## Use a Specific Skill
 
 ```bash
-npx skills use pramodpadmanabhan/openshift-ai-skills@openshift-ai-3-4-expert
-npx skills use pramodpadmanabhan/openshift-ai-skills@maas-governance-expert
-npx skills use pramodpadmanabhan/openshift-ai-skills@ai-gateway-architect
-npx skills use pramodpadmanabhan/openshift-ai-skills@ai-inference-optimization
+npx skills use pramodmax/openshift-ai-skills@openshift-ai-3-4-expert
+npx skills use pramodmax/openshift-ai-skills@maas-governance-expert
+npx skills use pramodmax/openshift-ai-skills@ai-gateway-architect
+npx skills use pramodmax/openshift-ai-skills@ai-inference-optimization
 ```
 
 ## Prerequisites
